@@ -1,0 +1,2 @@
+# premium-lathe-steady-001-lathe-steady-rest-long-turn
+Stop losing your setup notes and turning parameters for every long, delicate workpiece. The Lathe Steady Rest &amp; Long Turn Craft Lab is your digital workshop bench for capturing, organizing, and replicating perfect steady-rest configurations.  This Notion template eliminates the guesswork from long turning operations. Instead of scribbling on scrap
